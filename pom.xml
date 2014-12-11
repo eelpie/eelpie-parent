@@ -11,7 +11,7 @@
     <distributionManagement>
         <repository>
             <id>eelpie</id>
-            <url>http://nexus.eelpieconsulting.co.uk:8081/nexus</url>
+            <url>http://nexus.eelpieconsulting.co.uk:8081/nexus/content/repositories/eelpie/</url>
         </repository>
     </distributionManagement>
 
