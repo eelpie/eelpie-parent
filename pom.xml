@@ -13,6 +13,10 @@
             <id>eelpie</id>
             <url>http://nexus.eelpieconsulting.co.uk:8081/nexus/content/repositories/eelpie/</url>
         </repository>
+	<repository>
+            <id>eelpie</id>
+            <url>http://nexus.eelpieconsulting.co.uk:8081/nexus/content/repositories/thirdparty/</url>
+        </repository>
     </distributionManagement>
 
     <dependencyManagement>
